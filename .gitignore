@@ -1,0 +1,9 @@
+*.zip
+twitter-datasets
+runs
+
+__pycache__
+bashrc.txt
+
+.vscode
+lsf.o225776423
